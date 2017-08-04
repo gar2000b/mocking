@@ -8,7 +8,7 @@ import java.util.LinkedList;
 import org.junit.Test;
 import org.mockito.ArgumentMatcher;
 
-public class ArgumentMatchers {
+public class ArgumentMatchersTest {
 
 	@Test
 	public void simpleAnyIntArgMatcherTest() {
